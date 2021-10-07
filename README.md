@@ -172,4 +172,6 @@ The rest of the implementation is relatively straight forward ([full source here
 ;
 ```
  
+By the way, [here is the original thread in the forum](https://groups.google.com/g/fignition/c/2vBeONSTnWQ/m/UNbyTnv6UQwJ) when this was developed.
+
 Have fun!
