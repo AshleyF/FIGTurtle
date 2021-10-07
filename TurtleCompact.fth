@@ -13,4 +13,4 @@ AA95 , 7F67 , 4E34 , 1A00 , decimal
 : g y k x k ;
 : s 1 vmode 1 pen cls 0 0 g 0 h ;
 : e key 0 vmode ;
-: r 9380 C80 0 fill ;
+: r 37760 3200 0 fill ;

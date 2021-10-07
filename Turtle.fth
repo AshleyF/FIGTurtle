@@ -61,5 +61,5 @@ AA95 , 7F67 , 4E34 , 1A00 , decimal
 ;
 
 : clear
-  9380 C80 0 fill
+  37760 3200 0 fill
 ;

@@ -168,7 +168,7 @@ The rest of the implementation is relatively straight forward ([full source here
 ;
 
 : clear
-  9380 C80 0 fill
+  37760 3200 0 fill
 ;
 ```
  
